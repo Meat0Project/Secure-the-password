@@ -18,4 +18,4 @@ def secure_password(password):
 if __name__ == "__main__":
     user = input('Enter your password\n')
     password_secured = secure_password(user)
-    print(f"Your secures password is {password_secured}")
+    print(f"Updated password is {password_secured}")
