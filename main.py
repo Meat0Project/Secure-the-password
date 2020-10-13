@@ -2,7 +2,7 @@
 '''
 Author: Aditya Mangal 
 Date:  22 september,2020
-Purpose: python practise problem
+Purpose: python problem
 
 '''
 
